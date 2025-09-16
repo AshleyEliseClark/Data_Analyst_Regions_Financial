@@ -25,7 +25,7 @@ This project simulates HR compliance and recruitment analytics processes at Regi
 - Recruitment funnel efficiency (time-to-hire, acceptance rates)  
 
 ## Repo Layout
-
+```
 Regions_HR_Compliance/
 ├── data/
 │ ├── employees.csv # ~24k employees
@@ -51,3 +51,4 @@ Regions_HR_Compliance/
 │ ├── OFCCP_Diversity_Report.pdf # SSRS-style formatted compliance report
 │ └── Recruitment_Funnel.xlsx # Excel dashboard for recruitment funnel
 └── README.md
+```
