@@ -1,5 +1,5 @@
 # Data_Analyst_Regions_Financial
-# Regions Bank HR Compliance & Recruitment Analytics Simulation
+Regions Bank HR Compliance & Recruitment Analytics Simulation
 
 ## Objective
 This project simulates HR compliance and recruitment analytics processes at Regions Financial (~24,000 employees). It demonstrates SQL, SAS, and Excel workflows used to monitor applicant flow, turnover, training compliance, and employee satisfaction, reflecting authentic HR data practices from 2012–2013.
