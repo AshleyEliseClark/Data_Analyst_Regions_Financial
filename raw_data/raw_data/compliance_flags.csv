@@ -1,0 +1,2001 @@
+Employee_ID,Flag_Type,Flag_Date,Resolved
+18347,Missed Training,2022-10-25,False
+9881,Policy Violation,2024-12-06,True
+1953,Background Check Exception,2025-08-10,False
+20826,Background Check Exception,2022-09-16,True
+7363,Policy Violation,2024-01-02,True
+15291,Missed Training,2023-06-25,False
+10143,Missed Training,2022-09-23,True
+13646,Background Check Exception,2024-06-20,True
+23834,Policy Violation,2024-02-27,False
+13607,Background Check Exception,2024-05-11,False
+23777,Policy Violation,2024-05-25,True
+20344,Background Check Exception,2024-12-06,True
+22774,Policy Violation,2023-03-04,False
+21729,Policy Violation,2024-08-09,False
+23137,Background Check Exception,2024-01-13,True
+4192,Missed Training,2025-07-24,True
+9499,Missed Training,2024-10-20,True
+18231,Background Check Exception,2024-03-14,True
+14921,Policy Violation,2024-07-24,True
+5052,Policy Violation,2024-09-27,True
+3546,Policy Violation,2022-10-01,False
+16617,Background Check Exception,2025-08-28,False
+14658,Policy Violation,2022-11-28,True
+4161,Background Check Exception,2023-05-06,True
+9936,Background Check Exception,2023-09-24,True
+17276,Background Check Exception,2024-10-22,True
+10759,Policy Violation,2024-11-14,True
+6873,Missed Training,2023-10-19,True
+21814,Policy Violation,2023-12-31,True
+10439,Policy Violation,2024-06-04,True
+8805,Background Check Exception,2024-12-05,True
+4767,Missed Training,2025-04-30,True
+863,Policy Violation,2023-01-02,True
+1665,Missed Training,2024-03-02,True
+20780,Policy Violation,2023-09-25,False
+10637,Policy Violation,2023-03-26,True
+8154,Policy Violation,2024-01-22,True
+8554,Missed Training,2023-03-29,True
+4577,Policy Violation,2023-08-30,False
+22952,Missed Training,2025-08-24,True
+3468,Policy Violation,2024-08-14,True
+8480,Background Check Exception,2023-10-03,True
+14565,Background Check Exception,2023-07-24,False
+924,Missed Training,2025-06-11,False
+2666,Background Check Exception,2025-03-05,True
+18032,Background Check Exception,2025-08-18,True
+23717,Background Check Exception,2022-12-30,True
+22419,Missed Training,2024-02-03,True
+7043,Policy Violation,2025-01-17,False
+1774,Background Check Exception,2025-04-09,False
+546,Policy Violation,2022-09-28,True
+3251,Background Check Exception,2025-05-04,True
+23513,Policy Violation,2022-10-20,False
+11620,Policy Violation,2022-11-03,False
+8667,Policy Violation,2025-09-11,True
+17899,Missed Training,2023-07-13,False
+14081,Policy Violation,2023-09-27,True
+19685,Background Check Exception,2024-04-25,False
+21399,Background Check Exception,2022-12-15,True
+18152,Policy Violation,2022-10-24,False
+2106,Background Check Exception,2024-03-11,True
+8443,Policy Violation,2025-04-16,True
+20927,Policy Violation,2023-03-17,False
+22156,Policy Violation,2023-01-20,False
+20582,Background Check Exception,2025-07-11,True
+7565,Background Check Exception,2023-12-08,False
+1670,Background Check Exception,2022-10-15,True
+17793,Policy Violation,2025-09-15,True
+1958,Policy Violation,2023-11-23,True
+4336,Policy Violation,2024-10-21,True
+360,Policy Violation,2022-11-15,True
+9682,Missed Training,2022-12-31,True
+19181,Background Check Exception,2025-05-03,True
+23587,Policy Violation,2023-07-27,True
+22752,Policy Violation,2024-11-21,True
+4033,Policy Violation,2025-07-02,False
+15135,Missed Training,2025-07-27,False
+13533,Policy Violation,2023-04-18,True
+16239,Policy Violation,2025-05-23,True
+9113,Background Check Exception,2024-05-25,True
+10083,Missed Training,2023-07-02,True
+16989,Missed Training,2023-11-10,True
+7933,Background Check Exception,2023-08-04,False
+3566,Missed Training,2023-03-21,True
+377,Policy Violation,2023-12-09,True
+18236,Missed Training,2022-09-19,True
+11436,Missed Training,2025-04-19,True
+11366,Missed Training,2024-05-27,True
+692,Policy Violation,2023-11-07,False
+10266,Background Check Exception,2023-05-20,True
+10309,Background Check Exception,2025-08-24,True
+21129,Missed Training,2023-06-02,False
+10959,Missed Training,2023-01-19,True
+15267,Policy Violation,2024-10-08,False
+19790,Missed Training,2023-09-30,True
+17324,Missed Training,2023-07-20,False
+11325,Policy Violation,2024-04-26,False
+5227,Policy Violation,2023-06-01,True
+3098,Missed Training,2025-01-22,False
+23955,Policy Violation,2024-03-01,True
+10362,Policy Violation,2025-04-21,True
+3649,Missed Training,2025-08-22,True
+3732,Missed Training,2022-10-28,True
+7293,Background Check Exception,2024-07-02,True
+22143,Missed Training,2024-09-28,False
+14686,Policy Violation,2024-06-29,True
+6955,Background Check Exception,2025-09-05,True
+23600,Background Check Exception,2025-02-27,True
+22722,Background Check Exception,2023-03-14,True
+16444,Missed Training,2025-04-26,False
+23706,Missed Training,2025-06-12,False
+15939,Missed Training,2023-02-03,True
+12207,Policy Violation,2023-07-09,True
+3219,Background Check Exception,2024-11-01,False
+17217,Policy Violation,2023-08-09,True
+21793,Background Check Exception,2023-03-06,True
+12819,Missed Training,2022-12-24,True
+15422,Background Check Exception,2023-05-05,True
+3677,Missed Training,2025-02-02,True
+6343,Missed Training,2025-03-05,True
+13191,Missed Training,2024-12-02,True
+18034,Background Check Exception,2023-05-12,False
+7194,Background Check Exception,2023-10-20,True
+10596,Background Check Exception,2023-10-05,True
+3623,Background Check Exception,2025-02-04,False
+8853,Missed Training,2024-02-29,True
+22685,Background Check Exception,2024-03-01,True
+23738,Missed Training,2025-06-23,True
+17798,Background Check Exception,2024-10-22,True
+7559,Background Check Exception,2025-09-08,False
+2686,Policy Violation,2025-04-29,True
+20415,Missed Training,2025-07-04,False
+10134,Missed Training,2024-06-02,True
+9086,Background Check Exception,2023-03-09,False
+18178,Missed Training,2025-06-17,True
+6463,Missed Training,2024-09-01,True
+16825,Missed Training,2024-03-26,True
+10093,Missed Training,2024-04-12,True
+7581,Missed Training,2023-04-01,True
+6586,Policy Violation,2025-04-20,True
+23229,Policy Violation,2025-03-26,True
+12633,Policy Violation,2025-01-15,True
+21542,Missed Training,2024-11-02,False
+19834,Background Check Exception,2024-02-24,True
+5468,Background Check Exception,2025-09-15,True
+12839,Missed Training,2023-02-10,True
+7754,Policy Violation,2024-05-31,False
+22036,Policy Violation,2024-01-04,False
+23741,Policy Violation,2025-03-15,True
+11561,Background Check Exception,2025-05-17,True
+16694,Background Check Exception,2022-10-10,True
+2922,Policy Violation,2024-07-30,False
+1381,Policy Violation,2024-04-10,True
+12022,Missed Training,2023-05-06,True
+12016,Background Check Exception,2025-08-02,True
+4479,Policy Violation,2023-01-10,True
+12871,Background Check Exception,2023-03-09,True
+7422,Background Check Exception,2023-11-20,False
+11606,Policy Violation,2024-08-14,False
+13672,Background Check Exception,2023-04-03,True
+7775,Background Check Exception,2025-08-02,True
+5916,Policy Violation,2025-09-03,True
+8979,Missed Training,2023-01-12,True
+17691,Policy Violation,2024-06-20,False
+1714,Background Check Exception,2024-04-28,False
+19613,Background Check Exception,2024-04-15,False
+4352,Background Check Exception,2025-02-10,True
+18228,Missed Training,2024-06-30,False
+14225,Missed Training,2024-08-09,False
+11879,Policy Violation,2023-10-14,True
+2282,Background Check Exception,2024-06-02,True
+23133,Background Check Exception,2023-09-15,True
+14547,Missed Training,2022-12-12,True
+17868,Policy Violation,2023-04-30,True
+2638,Background Check Exception,2024-06-17,True
+8519,Missed Training,2023-06-30,True
+2059,Background Check Exception,2024-02-03,False
+10399,Background Check Exception,2024-08-12,True
+22967,Missed Training,2023-03-30,True
+10417,Missed Training,2025-02-07,True
+2911,Policy Violation,2024-08-22,True
+12756,Missed Training,2024-06-03,False
+22103,Background Check Exception,2024-06-03,False
+18213,Background Check Exception,2024-08-06,True
+2872,Policy Violation,2024-12-08,True
+13959,Policy Violation,2025-08-29,False
+12188,Missed Training,2022-10-20,True
+5640,Background Check Exception,2023-11-22,True
+13891,Policy Violation,2025-04-01,True
+22449,Policy Violation,2024-04-14,True
+6226,Background Check Exception,2024-01-20,True
+18695,Background Check Exception,2023-04-07,False
+9910,Background Check Exception,2025-02-27,True
+982,Background Check Exception,2022-11-05,True
+212,Background Check Exception,2023-11-27,True
+20890,Background Check Exception,2023-04-16,True
+8419,Background Check Exception,2022-10-09,True
+12988,Missed Training,2025-03-09,False
+15820,Missed Training,2024-09-03,True
+2708,Missed Training,2023-09-24,True
+7986,Missed Training,2023-12-23,False
+1939,Missed Training,2025-06-04,True
+1535,Policy Violation,2023-09-24,False
+7424,Missed Training,2023-08-06,True
+7163,Policy Violation,2023-09-24,False
+19485,Background Check Exception,2024-04-23,False
+12454,Missed Training,2024-05-27,False
+12256,Background Check Exception,2023-04-16,True
+3743,Background Check Exception,2023-05-30,False
+11183,Missed Training,2025-02-01,False
+11837,Missed Training,2023-07-11,True
+18676,Policy Violation,2025-01-01,True
+9277,Background Check Exception,2023-07-02,True
+22378,Policy Violation,2025-04-10,True
+9659,Background Check Exception,2024-09-10,False
+7064,Missed Training,2024-11-24,True
+19904,Missed Training,2023-03-31,True
+5447,Background Check Exception,2023-09-01,True
+9126,Missed Training,2025-08-23,True
+17039,Background Check Exception,2025-08-03,True
+14592,Background Check Exception,2024-02-19,False
+11265,Policy Violation,2023-07-06,True
+18711,Background Check Exception,2025-02-12,False
+11999,Background Check Exception,2023-10-12,True
+21066,Background Check Exception,2023-07-18,True
+21782,Missed Training,2023-07-11,True
+22418,Missed Training,2023-08-08,False
+22901,Missed Training,2024-12-15,True
+22828,Policy Violation,2024-03-03,True
+11286,Missed Training,2023-04-25,False
+306,Policy Violation,2023-11-19,True
+11004,Missed Training,2024-07-07,True
+13064,Background Check Exception,2023-12-30,False
+18133,Policy Violation,2025-02-06,False
+20859,Missed Training,2023-06-24,True
+5463,Missed Training,2022-12-14,True
+23883,Missed Training,2024-04-18,True
+15314,Background Check Exception,2023-07-18,True
+5324,Background Check Exception,2024-11-08,True
+11026,Policy Violation,2023-03-13,False
+1564,Policy Violation,2023-09-06,True
+21628,Missed Training,2023-12-27,True
+2595,Background Check Exception,2023-03-26,True
+18854,Missed Training,2023-08-13,True
+1509,Background Check Exception,2024-08-30,False
+19349,Policy Violation,2024-12-30,True
+14372,Policy Violation,2024-08-07,True
+6324,Background Check Exception,2023-09-18,True
+774,Missed Training,2025-07-07,True
+23807,Policy Violation,2023-01-08,True
+21432,Background Check Exception,2024-04-15,True
+2642,Missed Training,2024-03-10,True
+21781,Background Check Exception,2023-04-14,True
+19564,Missed Training,2023-08-27,True
+18397,Missed Training,2023-01-26,True
+3284,Missed Training,2025-07-26,True
+18486,Background Check Exception,2024-01-31,True
+767,Policy Violation,2024-03-25,True
+19499,Background Check Exception,2023-01-31,False
+1235,Background Check Exception,2024-12-26,True
+16407,Background Check Exception,2023-03-28,True
+21573,Policy Violation,2024-06-15,True
+3706,Policy Violation,2025-05-11,False
+13893,Missed Training,2023-04-04,False
+15715,Missed Training,2025-08-03,True
+10514,Background Check Exception,2023-05-06,True
+1911,Policy Violation,2024-09-23,False
+4039,Policy Violation,2024-03-14,False
+16382,Policy Violation,2025-02-24,True
+17051,Background Check Exception,2025-07-18,True
+3585,Policy Violation,2025-04-18,True
+14583,Background Check Exception,2024-02-12,True
+9565,Missed Training,2025-06-18,True
+20356,Background Check Exception,2024-01-04,True
+2949,Policy Violation,2022-11-22,True
+15573,Background Check Exception,2023-12-22,False
+14167,Missed Training,2022-11-22,True
+716,Missed Training,2024-02-26,True
+21075,Background Check Exception,2023-03-27,False
+12277,Missed Training,2025-09-05,True
+2286,Missed Training,2024-12-23,True
+8435,Background Check Exception,2024-11-29,True
+2741,Missed Training,2024-02-09,True
+14853,Missed Training,2023-09-17,True
+1878,Missed Training,2023-04-07,True
+3900,Missed Training,2024-01-16,True
+10460,Policy Violation,2024-01-28,True
+12980,Policy Violation,2023-05-15,True
+473,Missed Training,2022-11-13,True
+20031,Missed Training,2025-06-23,True
+21254,Missed Training,2024-03-05,True
+819,Background Check Exception,2022-11-23,False
+14758,Policy Violation,2024-03-31,True
+15093,Missed Training,2023-05-04,True
+21524,Missed Training,2024-04-06,False
+17586,Policy Violation,2023-06-13,False
+17151,Missed Training,2023-02-23,True
+7651,Background Check Exception,2023-08-10,True
+1404,Policy Violation,2023-04-11,True
+18391,Policy Violation,2024-10-31,False
+2863,Missed Training,2024-10-11,True
+7245,Policy Violation,2025-02-06,True
+3884,Missed Training,2023-10-03,False
+3340,Background Check Exception,2024-09-14,True
+23801,Missed Training,2023-12-20,True
+8300,Background Check Exception,2024-03-02,True
+19854,Policy Violation,2025-08-16,True
+19615,Policy Violation,2022-10-02,True
+10789,Background Check Exception,2023-01-14,False
+9725,Policy Violation,2023-04-11,False
+19411,Background Check Exception,2023-05-27,True
+15363,Background Check Exception,2023-03-30,True
+80,Missed Training,2024-04-21,True
+17499,Missed Training,2024-10-22,False
+8588,Background Check Exception,2023-04-03,True
+18980,Policy Violation,2025-03-30,True
+2849,Policy Violation,2024-10-06,True
+22384,Policy Violation,2023-10-21,False
+8342,Policy Violation,2023-12-16,False
+6131,Missed Training,2024-03-21,True
+23690,Background Check Exception,2025-06-06,True
+19333,Policy Violation,2024-08-13,True
+7817,Background Check Exception,2023-03-26,True
+2772,Policy Violation,2023-02-07,True
+23538,Background Check Exception,2024-07-22,False
+19923,Missed Training,2022-10-22,True
+8484,Background Check Exception,2024-05-14,True
+19818,Background Check Exception,2024-01-26,True
+7911,Missed Training,2023-07-12,False
+23315,Missed Training,2024-05-06,True
+16950,Policy Violation,2024-05-19,True
+20604,Policy Violation,2024-04-16,True
+13468,Background Check Exception,2025-08-29,True
+689,Missed Training,2024-06-04,True
+16470,Background Check Exception,2023-06-01,True
+15046,Missed Training,2023-11-20,True
+5092,Background Check Exception,2024-09-06,False
+20345,Policy Violation,2023-12-29,False
+6009,Policy Violation,2024-01-01,True
+18007,Missed Training,2024-12-25,True
+9969,Background Check Exception,2023-05-01,True
+19927,Missed Training,2024-11-11,True
+10965,Missed Training,2023-07-12,True
+672,Missed Training,2025-05-30,True
+13611,Policy Violation,2025-06-05,False
+351,Missed Training,2024-10-01,True
+21194,Policy Violation,2024-09-04,True
+5309,Background Check Exception,2024-06-08,True
+17537,Policy Violation,2024-02-27,True
+1503,Background Check Exception,2024-02-07,True
+19984,Missed Training,2025-07-24,False
+10647,Background Check Exception,2023-04-26,False
+22635,Policy Violation,2023-02-11,True
+10937,Missed Training,2023-12-14,True
+23750,Policy Violation,2023-06-17,False
+15142,Missed Training,2023-05-23,True
+22295,Missed Training,2025-02-12,True
+22321,Policy Violation,2024-10-25,True
+5441,Missed Training,2024-01-15,True
+14092,Policy Violation,2024-04-09,True
+11644,Background Check Exception,2024-04-13,True
+21676,Policy Violation,2024-07-18,True
+21955,Background Check Exception,2024-04-26,True
+22866,Background Check Exception,2023-05-11,True
+1244,Background Check Exception,2023-03-27,True
+2647,Policy Violation,2023-11-14,True
+15456,Background Check Exception,2024-01-26,False
+7256,Missed Training,2023-02-01,True
+21709,Policy Violation,2023-04-16,True
+13900,Missed Training,2023-09-22,True
+3145,Policy Violation,2024-05-26,True
+8411,Background Check Exception,2023-09-26,False
+21041,Missed Training,2023-09-28,False
+10545,Policy Violation,2024-04-30,False
+4513,Missed Training,2023-01-03,False
+8823,Missed Training,2024-07-09,True
+20570,Policy Violation,2023-12-09,False
+13104,Background Check Exception,2025-02-07,True
+15997,Policy Violation,2025-06-23,True
+7835,Policy Violation,2023-10-07,True
+15401,Policy Violation,2025-02-11,True
+9150,Policy Violation,2022-10-03,True
+2992,Missed Training,2024-08-01,True
+6813,Missed Training,2024-05-26,True
+3950,Missed Training,2023-01-20,True
+9154,Policy Violation,2022-12-10,False
+2740,Policy Violation,2025-08-17,True
+22208,Missed Training,2024-09-04,True
+21354,Missed Training,2025-01-03,False
+16465,Missed Training,2023-10-22,False
+10177,Background Check Exception,2024-03-22,True
+19813,Background Check Exception,2022-11-12,True
+9556,Missed Training,2022-11-03,True
+3553,Background Check Exception,2024-08-19,False
+13647,Missed Training,2022-11-14,False
+11092,Policy Violation,2024-07-21,True
+18880,Missed Training,2023-01-07,True
+21100,Policy Violation,2023-02-21,True
+8608,Missed Training,2023-07-26,True
+18751,Background Check Exception,2024-06-12,True
+12342,Missed Training,2023-02-27,False
+14987,Background Check Exception,2024-06-02,True
+15938,Policy Violation,2025-02-09,False
+85,Policy Violation,2025-05-31,False
+20440,Policy Violation,2024-09-27,True
+21778,Background Check Exception,2024-07-24,False
+7767,Background Check Exception,2024-02-19,False
+14976,Missed Training,2024-10-03,True
+6901,Policy Violation,2024-07-16,True
+3805,Policy Violation,2022-12-06,True
+20983,Policy Violation,2023-05-11,True
+5828,Missed Training,2024-06-22,True
+18728,Background Check Exception,2023-09-21,True
+19159,Policy Violation,2024-05-25,True
+182,Policy Violation,2025-04-16,False
+12774,Policy Violation,2024-03-21,False
+22171,Missed Training,2025-07-10,False
+164,Missed Training,2023-12-28,True
+23353,Missed Training,2022-11-10,True
+5167,Missed Training,2024-12-30,False
+5841,Missed Training,2023-06-22,True
+16755,Policy Violation,2024-03-13,False
+238,Background Check Exception,2024-04-27,False
+1104,Background Check Exception,2023-11-23,True
+18426,Policy Violation,2023-05-15,True
+18053,Background Check Exception,2025-07-17,True
+16081,Background Check Exception,2024-08-18,False
+23123,Background Check Exception,2025-01-29,True
+16908,Missed Training,2025-02-08,True
+2708,Missed Training,2024-06-11,True
+16508,Missed Training,2024-08-15,True
+4856,Missed Training,2022-09-25,True
+6086,Background Check Exception,2024-06-13,True
+9821,Missed Training,2023-12-30,True
+17573,Missed Training,2024-06-02,True
+16523,Background Check Exception,2023-05-29,False
+20408,Policy Violation,2022-12-28,True
+9093,Background Check Exception,2025-07-24,True
+11950,Policy Violation,2024-12-07,True
+5355,Policy Violation,2025-04-30,True
+6442,Missed Training,2025-04-03,True
+7907,Missed Training,2024-01-13,False
+8579,Background Check Exception,2024-08-31,True
+23440,Missed Training,2023-10-06,True
+16985,Background Check Exception,2024-10-22,False
+16319,Background Check Exception,2024-03-14,True
+18285,Policy Violation,2022-10-30,True
+7124,Missed Training,2022-10-31,True
+17327,Policy Violation,2025-03-22,False
+8920,Missed Training,2024-05-28,False
+13764,Policy Violation,2024-03-15,False
+2579,Background Check Exception,2023-09-29,True
+4377,Background Check Exception,2024-03-05,False
+4155,Policy Violation,2022-11-06,True
+12434,Missed Training,2024-11-09,True
+14017,Background Check Exception,2023-06-28,False
+11005,Policy Violation,2025-07-26,True
+18181,Policy Violation,2024-12-11,True
+11857,Policy Violation,2023-10-04,False
+9358,Policy Violation,2025-06-29,True
+21268,Policy Violation,2024-03-26,False
+7323,Missed Training,2024-05-18,True
+10841,Policy Violation,2022-12-29,False
+6302,Policy Violation,2024-01-31,True
+13774,Missed Training,2025-09-06,False
+23911,Policy Violation,2024-09-22,True
+19544,Background Check Exception,2023-06-05,False
+19696,Missed Training,2022-11-20,False
+15925,Background Check Exception,2025-05-18,True
+3827,Missed Training,2025-08-05,False
+13010,Missed Training,2024-05-11,False
+8024,Policy Violation,2024-04-05,True
+19332,Background Check Exception,2024-03-04,True
+22741,Background Check Exception,2025-04-20,True
+8015,Policy Violation,2024-10-10,True
+8526,Background Check Exception,2025-04-23,False
+6348,Background Check Exception,2024-06-02,True
+1745,Missed Training,2023-10-22,True
+15490,Missed Training,2023-08-03,True
+2797,Missed Training,2023-12-28,True
+10388,Missed Training,2023-10-19,True
+16952,Policy Violation,2025-05-02,True
+4042,Background Check Exception,2025-02-13,False
+8215,Background Check Exception,2025-05-15,True
+1084,Background Check Exception,2024-03-15,False
+9716,Missed Training,2022-11-18,False
+18875,Policy Violation,2024-09-09,True
+13948,Background Check Exception,2023-04-30,False
+8209,Background Check Exception,2025-07-11,True
+23150,Missed Training,2025-02-22,True
+19107,Policy Violation,2023-09-25,True
+19937,Policy Violation,2024-07-11,False
+2529,Missed Training,2023-05-17,True
+4262,Background Check Exception,2024-01-11,False
+22712,Policy Violation,2025-03-20,False
+17281,Missed Training,2024-11-17,True
+6411,Missed Training,2023-08-24,True
+14602,Missed Training,2023-11-11,True
+6797,Policy Violation,2023-07-16,True
+18182,Background Check Exception,2024-09-04,False
+10088,Policy Violation,2024-09-20,True
+3952,Missed Training,2024-03-18,True
+10632,Policy Violation,2022-12-01,False
+10779,Missed Training,2023-10-15,False
+1061,Policy Violation,2024-05-10,False
+21202,Background Check Exception,2023-01-24,False
+7505,Background Check Exception,2024-05-01,False
+1935,Missed Training,2024-08-06,True
+22179,Background Check Exception,2024-09-19,False
+3973,Policy Violation,2023-10-28,True
+2411,Background Check Exception,2023-04-05,False
+10698,Background Check Exception,2024-04-12,True
+23690,Background Check Exception,2024-01-09,True
+16016,Missed Training,2024-02-16,False
+11118,Policy Violation,2023-06-16,True
+14235,Policy Violation,2022-12-08,True
+10680,Background Check Exception,2023-07-21,True
+5338,Policy Violation,2024-11-14,True
+20039,Missed Training,2025-07-25,True
+11170,Missed Training,2024-05-30,True
+13234,Background Check Exception,2023-06-03,True
+810,Policy Violation,2023-09-17,True
+7274,Background Check Exception,2025-08-31,False
+2146,Missed Training,2023-05-10,True
+5649,Background Check Exception,2024-09-05,True
+16168,Background Check Exception,2025-03-08,True
+3684,Missed Training,2024-04-09,True
+22474,Background Check Exception,2023-10-28,True
+6659,Missed Training,2024-10-17,False
+9104,Background Check Exception,2022-09-29,True
+5635,Background Check Exception,2023-02-03,False
+3622,Missed Training,2024-11-02,True
+13289,Missed Training,2024-06-16,True
+21463,Background Check Exception,2023-12-18,True
+993,Policy Violation,2022-09-20,True
+5004,Background Check Exception,2024-11-06,False
+7024,Missed Training,2022-10-14,False
+8909,Policy Violation,2025-06-08,True
+15178,Missed Training,2023-11-05,True
+16300,Background Check Exception,2025-05-29,True
+2526,Background Check Exception,2024-08-24,True
+17949,Policy Violation,2022-09-27,True
+4450,Missed Training,2024-01-14,False
+14782,Background Check Exception,2024-11-30,True
+7273,Policy Violation,2023-05-18,True
+8299,Missed Training,2023-11-09,True
+21024,Background Check Exception,2025-03-03,False
+5348,Background Check Exception,2025-06-23,True
+14548,Background Check Exception,2023-10-10,True
+13038,Missed Training,2022-09-24,False
+18928,Policy Violation,2025-01-06,True
+5450,Missed Training,2024-09-29,False
+20823,Policy Violation,2024-02-13,True
+4308,Background Check Exception,2024-03-04,True
+7114,Policy Violation,2024-10-31,False
+9760,Missed Training,2025-02-23,True
+20265,Policy Violation,2024-12-24,False
+10333,Missed Training,2024-08-20,False
+9556,Background Check Exception,2024-05-15,True
+18857,Policy Violation,2025-05-13,True
+23879,Policy Violation,2023-05-22,True
+17125,Background Check Exception,2025-07-18,True
+19521,Policy Violation,2025-02-19,True
+17273,Missed Training,2023-05-10,True
+11587,Background Check Exception,2025-08-06,True
+15182,Policy Violation,2023-04-28,False
+12143,Policy Violation,2023-05-20,False
+5932,Missed Training,2023-06-02,True
+21657,Missed Training,2022-10-08,True
+23813,Background Check Exception,2024-11-25,True
+850,Background Check Exception,2025-06-03,True
+5359,Policy Violation,2022-11-12,True
+6730,Missed Training,2022-10-23,False
+22070,Missed Training,2025-04-10,True
+21899,Missed Training,2025-01-01,False
+10112,Background Check Exception,2022-10-29,True
+6024,Missed Training,2023-03-13,True
+16995,Background Check Exception,2022-12-19,False
+14957,Missed Training,2023-05-05,True
+16079,Background Check Exception,2023-08-16,False
+21114,Policy Violation,2023-02-03,False
+18331,Missed Training,2024-12-28,True
+21088,Background Check Exception,2023-12-03,False
+14548,Background Check Exception,2024-04-01,True
+5440,Missed Training,2024-02-02,False
+20988,Policy Violation,2023-10-22,True
+20542,Missed Training,2025-01-03,False
+6345,Background Check Exception,2023-06-22,True
+2646,Background Check Exception,2023-05-21,True
+13435,Missed Training,2023-11-03,True
+3737,Missed Training,2023-03-06,False
+11820,Background Check Exception,2024-08-29,True
+16172,Background Check Exception,2025-08-24,True
+23127,Background Check Exception,2023-10-13,True
+12538,Missed Training,2024-11-04,True
+10902,Background Check Exception,2023-12-18,False
+4868,Missed Training,2024-03-19,True
+12114,Background Check Exception,2024-04-03,True
+18703,Background Check Exception,2022-09-27,True
+17945,Background Check Exception,2023-09-17,True
+23257,Policy Violation,2024-04-25,False
+198,Policy Violation,2024-11-02,True
+5872,Missed Training,2025-07-18,False
+14411,Policy Violation,2025-03-19,True
+23888,Background Check Exception,2024-09-23,False
+23637,Missed Training,2023-02-28,True
+2463,Missed Training,2025-01-11,False
+12103,Background Check Exception,2024-10-17,True
+19583,Background Check Exception,2025-08-17,False
+13897,Missed Training,2024-08-14,True
+9445,Policy Violation,2023-03-21,True
+22421,Policy Violation,2024-03-02,True
+18328,Background Check Exception,2025-04-11,True
+7914,Missed Training,2024-12-25,False
+1100,Background Check Exception,2024-11-29,True
+7687,Policy Violation,2024-07-18,False
+7684,Background Check Exception,2023-08-11,True
+15360,Background Check Exception,2023-03-05,True
+21446,Background Check Exception,2024-10-24,True
+3369,Background Check Exception,2024-11-11,False
+15026,Policy Violation,2023-05-24,True
+6678,Policy Violation,2025-04-25,True
+7814,Background Check Exception,2024-02-17,False
+14035,Background Check Exception,2023-02-03,False
+14933,Background Check Exception,2023-12-09,True
+5931,Policy Violation,2024-01-25,True
+10551,Background Check Exception,2024-01-15,True
+15564,Policy Violation,2025-03-17,False
+12162,Policy Violation,2025-01-02,False
+14471,Missed Training,2022-10-22,True
+13904,Background Check Exception,2023-08-28,False
+9910,Missed Training,2023-01-06,False
+21316,Policy Violation,2024-06-03,True
+1506,Missed Training,2024-12-06,True
+15369,Missed Training,2025-07-11,True
+8065,Policy Violation,2023-07-14,False
+10328,Background Check Exception,2022-11-16,True
+11915,Policy Violation,2023-11-17,True
+23672,Background Check Exception,2023-11-17,True
+15161,Background Check Exception,2024-05-15,True
+1859,Background Check Exception,2025-03-09,True
+10977,Missed Training,2025-09-15,True
+12699,Missed Training,2023-02-16,False
+3216,Policy Violation,2022-10-28,False
+23281,Background Check Exception,2025-01-16,True
+18121,Background Check Exception,2022-10-25,True
+16100,Policy Violation,2025-04-05,True
+6156,Background Check Exception,2023-10-31,True
+12420,Background Check Exception,2023-11-03,False
+11015,Missed Training,2023-02-02,True
+20812,Policy Violation,2023-02-26,False
+19965,Policy Violation,2025-03-26,True
+20048,Policy Violation,2023-04-09,True
+10187,Background Check Exception,2024-05-17,True
+19418,Policy Violation,2024-01-10,False
+22927,Background Check Exception,2025-06-12,True
+22567,Policy Violation,2023-04-28,True
+5325,Policy Violation,2025-04-22,True
+2510,Policy Violation,2023-05-20,True
+15612,Policy Violation,2025-07-20,True
+12596,Missed Training,2023-05-20,True
+3306,Background Check Exception,2024-05-15,True
+1070,Background Check Exception,2022-11-25,False
+20860,Background Check Exception,2023-09-28,True
+11382,Background Check Exception,2023-04-20,True
+15416,Missed Training,2025-05-13,True
+7444,Policy Violation,2024-03-29,True
+17100,Policy Violation,2023-08-19,True
+22919,Missed Training,2022-11-04,False
+21936,Missed Training,2024-03-31,True
+7554,Background Check Exception,2022-10-30,True
+6385,Policy Violation,2024-10-15,False
+4249,Policy Violation,2023-12-28,False
+1081,Background Check Exception,2022-11-26,True
+271,Background Check Exception,2023-11-23,False
+7725,Policy Violation,2022-12-11,False
+13483,Policy Violation,2023-08-21,True
+705,Policy Violation,2022-12-04,True
+13150,Background Check Exception,2024-09-17,True
+13281,Policy Violation,2025-01-04,False
+9438,Policy Violation,2024-12-19,True
+8674,Missed Training,2024-03-17,True
+114,Background Check Exception,2024-04-30,False
+2966,Policy Violation,2025-08-26,True
+4851,Policy Violation,2024-04-16,False
+4593,Background Check Exception,2024-03-22,True
+12503,Background Check Exception,2025-08-30,True
+9334,Missed Training,2023-06-28,True
+3662,Policy Violation,2024-02-11,True
+8209,Missed Training,2023-04-19,True
+12151,Background Check Exception,2024-03-21,False
+19151,Policy Violation,2025-05-22,True
+13636,Missed Training,2025-04-03,False
+8865,Background Check Exception,2024-11-09,False
+19721,Policy Violation,2025-08-10,True
+12651,Background Check Exception,2025-03-05,True
+6702,Background Check Exception,2022-09-25,True
+12107,Policy Violation,2024-07-07,False
+15823,Missed Training,2023-10-14,False
+17784,Missed Training,2023-01-30,True
+16302,Missed Training,2023-10-11,False
+16660,Background Check Exception,2024-09-24,False
+17215,Policy Violation,2023-06-12,True
+7423,Background Check Exception,2025-02-21,True
+22084,Policy Violation,2023-08-27,False
+15382,Missed Training,2023-01-14,False
+9763,Missed Training,2022-10-26,False
+785,Missed Training,2023-09-24,True
+11850,Missed Training,2025-03-08,True
+2475,Missed Training,2023-03-11,False
+23441,Policy Violation,2023-01-21,False
+21078,Missed Training,2024-12-04,True
+9905,Background Check Exception,2024-05-30,True
+1548,Missed Training,2024-01-24,True
+5164,Missed Training,2023-03-30,False
+22768,Policy Violation,2023-05-09,False
+10274,Background Check Exception,2023-01-07,True
+21102,Background Check Exception,2025-07-21,False
+20829,Missed Training,2022-11-24,False
+11328,Missed Training,2023-06-16,True
+10324,Background Check Exception,2024-02-25,True
+14515,Missed Training,2024-12-26,False
+22086,Background Check Exception,2025-02-27,True
+14603,Missed Training,2024-11-05,True
+23589,Policy Violation,2023-03-06,True
+23270,Policy Violation,2025-05-18,False
+10452,Missed Training,2024-06-12,False
+23159,Background Check Exception,2023-01-16,False
+14014,Background Check Exception,2025-07-04,True
+9077,Background Check Exception,2024-03-30,True
+16459,Missed Training,2024-08-01,True
+545,Background Check Exception,2023-04-14,True
+4743,Background Check Exception,2024-02-12,False
+7724,Missed Training,2025-07-30,False
+23881,Policy Violation,2024-08-19,False
+15921,Background Check Exception,2024-12-07,True
+10628,Missed Training,2025-02-19,True
+1939,Policy Violation,2025-04-27,True
+2262,Missed Training,2023-06-27,True
+7282,Policy Violation,2023-03-22,True
+2679,Missed Training,2024-05-02,False
+18430,Missed Training,2025-01-18,True
+19718,Background Check Exception,2025-06-16,True
+1199,Missed Training,2024-08-10,False
+5790,Policy Violation,2023-07-13,True
+4097,Policy Violation,2023-08-31,True
+4201,Background Check Exception,2023-04-13,True
+5306,Policy Violation,2023-03-23,False
+719,Missed Training,2024-11-03,False
+8183,Policy Violation,2024-09-16,True
+7148,Policy Violation,2025-02-07,True
+6551,Missed Training,2024-07-31,True
+2532,Background Check Exception,2023-01-16,True
+11689,Missed Training,2023-08-02,True
+8974,Background Check Exception,2024-03-28,True
+2740,Background Check Exception,2024-10-02,False
+931,Background Check Exception,2024-01-02,True
+779,Policy Violation,2023-05-05,True
+3078,Policy Violation,2023-10-24,True
+10723,Background Check Exception,2023-09-01,True
+1194,Missed Training,2023-12-12,True
+6493,Background Check Exception,2025-06-30,True
+9052,Policy Violation,2023-04-16,True
+17748,Missed Training,2025-05-11,False
+9481,Policy Violation,2023-10-13,True
+16542,Missed Training,2024-10-18,True
+16965,Missed Training,2024-04-19,False
+23535,Background Check Exception,2023-08-10,False
+8940,Policy Violation,2023-08-03,True
+1235,Missed Training,2025-06-24,False
+16438,Missed Training,2023-06-09,True
+8024,Background Check Exception,2023-09-13,True
+773,Missed Training,2023-06-23,False
+17557,Background Check Exception,2022-10-09,True
+3822,Policy Violation,2024-10-23,True
+10976,Policy Violation,2024-04-06,True
+17031,Background Check Exception,2023-05-02,True
+13707,Policy Violation,2023-09-04,True
+18471,Background Check Exception,2024-03-27,True
+1097,Background Check Exception,2023-08-27,True
+18091,Missed Training,2024-07-25,True
+1767,Policy Violation,2025-01-07,False
+13662,Background Check Exception,2024-10-08,True
+22359,Policy Violation,2023-12-31,True
+23254,Missed Training,2023-10-10,False
+22097,Missed Training,2023-03-05,True
+21808,Policy Violation,2024-07-05,True
+5028,Missed Training,2025-06-09,True
+18259,Missed Training,2023-10-24,True
+20421,Policy Violation,2025-05-19,True
+13640,Missed Training,2024-11-27,False
+21012,Background Check Exception,2023-06-10,False
+9527,Policy Violation,2025-09-07,True
+9602,Policy Violation,2025-06-09,True
+20080,Policy Violation,2024-03-14,False
+12840,Background Check Exception,2023-01-09,True
+1950,Policy Violation,2024-01-09,False
+14560,Policy Violation,2024-01-15,True
+2483,Missed Training,2024-09-12,True
+20250,Background Check Exception,2024-08-23,True
+10609,Background Check Exception,2025-04-19,True
+3861,Policy Violation,2023-01-07,False
+18038,Policy Violation,2024-10-12,True
+12974,Missed Training,2024-10-14,True
+6149,Missed Training,2022-11-25,False
+15838,Background Check Exception,2024-12-04,True
+7945,Policy Violation,2023-01-18,False
+9640,Missed Training,2023-07-11,True
+21449,Background Check Exception,2022-11-23,True
+3603,Policy Violation,2024-02-22,True
+22874,Background Check Exception,2024-08-28,True
+20957,Policy Violation,2023-04-08,True
+23894,Background Check Exception,2025-09-04,True
+16673,Background Check Exception,2024-06-22,True
+19011,Policy Violation,2023-11-21,False
+20827,Background Check Exception,2023-08-28,False
+18168,Background Check Exception,2023-06-16,True
+8863,Background Check Exception,2025-08-06,False
+23194,Policy Violation,2024-05-26,True
+23909,Policy Violation,2024-04-06,True
+7462,Missed Training,2024-06-06,True
+21598,Missed Training,2022-10-04,False
+703,Policy Violation,2022-12-09,True
+12152,Missed Training,2024-12-05,True
+17958,Missed Training,2023-10-08,True
+17956,Background Check Exception,2022-10-08,True
+17351,Background Check Exception,2022-11-15,True
+17935,Missed Training,2023-08-20,False
+10318,Background Check Exception,2023-09-19,True
+12907,Background Check Exception,2024-04-01,True
+116,Missed Training,2025-07-01,True
+13615,Policy Violation,2023-02-05,False
+2595,Missed Training,2022-10-10,False
+2876,Policy Violation,2022-10-29,True
+19670,Background Check Exception,2024-06-07,True
+21154,Background Check Exception,2025-05-20,True
+628,Background Check Exception,2023-01-29,True
+4809,Missed Training,2022-12-26,True
+8285,Missed Training,2023-09-13,False
+10269,Missed Training,2024-06-27,False
+1208,Missed Training,2023-02-19,True
+13008,Background Check Exception,2024-01-14,False
+5926,Policy Violation,2023-08-29,True
+13995,Policy Violation,2023-11-22,False
+10935,Missed Training,2025-01-17,True
+19716,Missed Training,2024-12-13,False
+15219,Background Check Exception,2025-03-20,True
+5299,Policy Violation,2025-05-14,True
+1685,Policy Violation,2024-05-27,True
+13431,Background Check Exception,2023-09-16,True
+12394,Policy Violation,2025-01-30,True
+21475,Background Check Exception,2024-01-01,True
+14884,Missed Training,2023-02-05,False
+4906,Policy Violation,2024-05-01,True
+21583,Missed Training,2025-05-01,True
+12711,Background Check Exception,2024-05-20,True
+14119,Missed Training,2022-12-25,False
+14104,Background Check Exception,2023-12-25,True
+9267,Policy Violation,2022-09-26,False
+642,Policy Violation,2024-06-26,True
+7810,Policy Violation,2024-08-01,True
+14865,Missed Training,2024-09-26,False
+13966,Background Check Exception,2023-12-29,False
+12312,Background Check Exception,2025-02-08,False
+3320,Background Check Exception,2025-06-21,False
+23919,Missed Training,2022-12-11,True
+1681,Missed Training,2024-02-08,True
+11790,Missed Training,2024-09-09,False
+7512,Background Check Exception,2024-06-12,False
+15050,Policy Violation,2024-06-10,False
+17983,Background Check Exception,2023-03-14,True
+1636,Missed Training,2023-07-08,True
+16797,Policy Violation,2023-08-20,False
+21401,Background Check Exception,2025-01-24,False
+13685,Background Check Exception,2024-05-12,False
+1336,Background Check Exception,2024-03-09,False
+22093,Policy Violation,2024-09-21,True
+6225,Policy Violation,2023-04-09,True
+19552,Missed Training,2024-06-03,True
+7863,Missed Training,2025-04-07,True
+5419,Policy Violation,2023-07-01,True
+8376,Background Check Exception,2025-03-15,False
+16762,Missed Training,2025-03-02,True
+3980,Policy Violation,2024-06-19,False
+7862,Background Check Exception,2024-12-30,True
+20394,Policy Violation,2023-04-27,True
+8148,Missed Training,2023-07-12,True
+20849,Missed Training,2025-04-08,True
+8167,Missed Training,2023-01-20,True
+18334,Policy Violation,2024-06-20,False
+16404,Missed Training,2024-04-15,True
+5240,Policy Violation,2024-07-21,True
+21488,Missed Training,2025-02-12,True
+3091,Background Check Exception,2023-03-09,True
+5486,Background Check Exception,2025-06-14,True
+5016,Policy Violation,2024-07-21,True
+21948,Missed Training,2025-06-21,True
+2236,Background Check Exception,2023-10-18,True
+9045,Background Check Exception,2023-04-30,True
+17726,Background Check Exception,2024-03-25,True
+1726,Background Check Exception,2023-03-31,True
+10809,Background Check Exception,2023-11-23,True
+22899,Background Check Exception,2024-08-21,True
+13903,Missed Training,2024-12-02,True
+15208,Missed Training,2024-11-30,True
+3303,Background Check Exception,2024-10-31,True
+11107,Missed Training,2024-06-14,False
+16029,Missed Training,2024-09-20,False
+23578,Missed Training,2024-01-11,True
+11798,Policy Violation,2023-04-07,True
+7310,Missed Training,2025-01-02,True
+1892,Background Check Exception,2023-02-13,True
+3117,Background Check Exception,2025-03-29,True
+7673,Missed Training,2023-09-16,False
+23370,Policy Violation,2024-02-08,True
+20363,Policy Violation,2025-08-22,True
+7709,Policy Violation,2024-10-23,True
+23401,Missed Training,2025-05-30,True
+17991,Policy Violation,2025-04-12,False
+12296,Policy Violation,2024-02-11,False
+14694,Missed Training,2024-06-30,True
+5605,Missed Training,2025-01-20,True
+3690,Missed Training,2025-04-28,False
+9932,Background Check Exception,2025-06-24,True
+10660,Policy Violation,2024-06-19,True
+9722,Missed Training,2024-09-30,False
+2060,Missed Training,2023-06-20,True
+4736,Missed Training,2024-04-17,False
+3584,Background Check Exception,2023-01-15,True
+1510,Missed Training,2023-05-13,True
+16034,Missed Training,2024-12-15,True
+21180,Background Check Exception,2023-01-03,True
+12321,Background Check Exception,2023-07-18,False
+17465,Missed Training,2022-10-27,True
+16942,Policy Violation,2025-08-22,True
+23006,Missed Training,2025-02-18,True
+1479,Background Check Exception,2024-09-05,False
+21334,Policy Violation,2024-05-15,True
+3143,Missed Training,2022-10-12,False
+6798,Policy Violation,2022-12-31,True
+12988,Background Check Exception,2023-12-11,False
+16247,Background Check Exception,2022-09-19,True
+18339,Background Check Exception,2024-10-13,True
+9258,Policy Violation,2025-04-19,True
+21918,Policy Violation,2023-09-13,False
+16610,Background Check Exception,2023-01-20,True
+13426,Background Check Exception,2024-02-25,False
+16794,Missed Training,2024-06-03,True
+14293,Background Check Exception,2023-10-31,False
+19959,Background Check Exception,2023-06-12,True
+15076,Background Check Exception,2023-11-02,True
+23411,Missed Training,2023-01-04,True
+8319,Missed Training,2024-09-17,False
+2910,Missed Training,2023-09-20,True
+10578,Background Check Exception,2023-12-01,True
+16244,Policy Violation,2024-06-02,True
+1066,Background Check Exception,2023-05-13,False
+21982,Policy Violation,2024-05-14,False
+2745,Policy Violation,2024-03-25,False
+8385,Missed Training,2023-12-11,False
+9983,Background Check Exception,2024-10-24,True
+18396,Missed Training,2024-10-11,True
+8760,Missed Training,2024-10-19,False
+13824,Background Check Exception,2024-07-19,True
+354,Background Check Exception,2025-04-23,False
+1222,Policy Violation,2023-01-11,False
+4387,Background Check Exception,2025-02-21,True
+5082,Policy Violation,2023-12-01,True
+16035,Policy Violation,2022-12-31,True
+13024,Background Check Exception,2024-09-10,False
+21620,Policy Violation,2023-11-09,False
+20310,Missed Training,2024-01-30,True
+21040,Missed Training,2024-10-05,True
+17323,Background Check Exception,2023-06-28,False
+8598,Missed Training,2022-12-17,True
+23118,Missed Training,2024-12-19,True
+20245,Policy Violation,2024-11-20,True
+9178,Background Check Exception,2023-12-29,True
+9948,Policy Violation,2025-02-02,False
+7829,Missed Training,2025-02-25,False
+4603,Background Check Exception,2025-05-12,True
+12206,Missed Training,2025-04-09,True
+14265,Missed Training,2025-07-13,True
+7033,Background Check Exception,2023-05-17,True
+8475,Background Check Exception,2025-08-05,True
+5753,Background Check Exception,2023-09-22,True
+12719,Missed Training,2024-11-21,False
+9515,Background Check Exception,2023-07-04,True
+19326,Missed Training,2023-02-04,True
+1924,Background Check Exception,2024-09-13,True
+19749,Background Check Exception,2024-04-29,True
+4835,Missed Training,2025-05-27,True
+13909,Background Check Exception,2023-10-15,True
+3720,Policy Violation,2023-08-20,True
+8588,Missed Training,2024-12-21,True
+18675,Policy Violation,2023-09-09,True
+19984,Missed Training,2023-12-26,True
+208,Policy Violation,2024-03-12,True
+6162,Background Check Exception,2023-12-02,True
+6502,Policy Violation,2023-06-23,True
+13432,Background Check Exception,2024-09-18,True
+12559,Policy Violation,2023-12-08,True
+15395,Background Check Exception,2024-04-28,True
+9477,Policy Violation,2023-02-16,False
+17083,Policy Violation,2024-09-13,False
+7769,Missed Training,2024-12-16,True
+8176,Policy Violation,2023-01-19,True
+14504,Missed Training,2023-11-04,True
+7140,Policy Violation,2024-07-01,True
+13251,Background Check Exception,2025-06-24,True
+3819,Policy Violation,2023-12-17,True
+16435,Missed Training,2024-03-06,True
+17306,Policy Violation,2022-10-30,False
+8461,Background Check Exception,2023-11-11,True
+20869,Missed Training,2023-03-07,True
+22147,Background Check Exception,2023-05-10,True
+16432,Background Check Exception,2023-08-31,True
+16188,Policy Violation,2024-04-06,True
+13806,Missed Training,2024-12-19,False
+2545,Background Check Exception,2024-04-22,False
+18010,Background Check Exception,2025-08-29,True
+7955,Missed Training,2022-10-09,True
+9875,Missed Training,2023-05-09,True
+4743,Background Check Exception,2024-12-27,True
+17616,Background Check Exception,2024-04-10,True
+15467,Background Check Exception,2023-01-08,True
+3518,Background Check Exception,2022-12-03,True
+17585,Missed Training,2022-12-25,False
+15714,Background Check Exception,2023-10-17,True
+19398,Missed Training,2025-06-03,True
+23941,Missed Training,2025-03-12,True
+6588,Policy Violation,2024-11-27,True
+16470,Missed Training,2023-01-04,True
+2901,Background Check Exception,2023-02-10,True
+17803,Policy Violation,2023-06-11,False
+5623,Background Check Exception,2025-04-27,True
+20806,Policy Violation,2023-04-27,True
+8017,Missed Training,2023-11-26,True
+7087,Policy Violation,2022-11-16,True
+154,Background Check Exception,2025-04-11,True
+2614,Background Check Exception,2024-01-29,False
+16353,Background Check Exception,2024-07-16,True
+16763,Policy Violation,2025-01-20,False
+5165,Background Check Exception,2023-02-19,False
+11923,Background Check Exception,2025-09-04,True
+19633,Background Check Exception,2022-12-17,True
+13910,Background Check Exception,2023-12-25,True
+18039,Background Check Exception,2025-05-20,True
+13121,Background Check Exception,2024-04-10,True
+22437,Policy Violation,2023-10-14,True
+21947,Policy Violation,2024-08-06,True
+6789,Missed Training,2024-12-13,True
+3391,Missed Training,2022-11-05,True
+15772,Missed Training,2025-03-25,True
+19692,Policy Violation,2022-12-14,True
+11085,Missed Training,2022-11-06,True
+6179,Missed Training,2023-05-26,False
+19918,Background Check Exception,2024-06-14,True
+17456,Policy Violation,2023-10-04,True
+21661,Background Check Exception,2022-12-14,True
+22879,Policy Violation,2024-02-29,False
+14758,Policy Violation,2023-07-11,True
+13823,Missed Training,2025-08-26,False
+16914,Background Check Exception,2024-09-29,True
+22642,Background Check Exception,2025-03-19,False
+19020,Background Check Exception,2024-01-29,True
+4759,Missed Training,2023-11-18,False
+18900,Policy Violation,2024-05-13,False
+15914,Background Check Exception,2025-01-28,True
+15011,Background Check Exception,2024-11-20,True
+17173,Policy Violation,2024-05-01,True
+3136,Policy Violation,2024-07-25,True
+10733,Background Check Exception,2024-10-20,True
+15351,Policy Violation,2024-05-22,False
+9350,Missed Training,2024-04-20,True
+23947,Background Check Exception,2022-10-15,False
+17771,Policy Violation,2025-03-18,True
+8175,Background Check Exception,2022-12-05,True
+20321,Missed Training,2023-09-01,False
+19137,Policy Violation,2023-06-02,True
+17725,Background Check Exception,2025-08-01,True
+9097,Missed Training,2025-07-05,True
+2098,Missed Training,2025-05-27,True
+3898,Policy Violation,2023-01-12,True
+21218,Missed Training,2022-10-17,False
+15551,Missed Training,2023-11-10,True
+23662,Background Check Exception,2023-05-02,True
+23900,Policy Violation,2024-09-15,True
+8069,Background Check Exception,2024-03-28,True
+16102,Missed Training,2024-03-10,False
+11575,Missed Training,2025-08-25,True
+14827,Policy Violation,2024-11-23,True
+11640,Missed Training,2023-07-19,True
+14081,Background Check Exception,2023-11-29,True
+12252,Missed Training,2024-07-04,False
+13770,Background Check Exception,2025-04-13,True
+22765,Background Check Exception,2023-01-09,True
+6776,Missed Training,2022-12-26,False
+6843,Background Check Exception,2024-02-26,False
+21993,Missed Training,2023-12-10,True
+2224,Background Check Exception,2025-04-24,True
+21418,Background Check Exception,2025-05-21,True
+22478,Missed Training,2023-06-03,True
+21517,Missed Training,2023-03-17,False
+14982,Missed Training,2024-11-02,True
+23167,Missed Training,2025-01-18,True
+16159,Policy Violation,2024-10-11,True
+7756,Missed Training,2024-04-08,False
+6355,Missed Training,2024-08-19,False
+17994,Missed Training,2022-12-28,True
+16732,Background Check Exception,2024-12-11,False
+19465,Background Check Exception,2024-02-02,True
+17448,Policy Violation,2023-02-14,True
+6948,Policy Violation,2023-02-11,False
+10020,Background Check Exception,2024-06-18,True
+14596,Background Check Exception,2024-09-29,True
+390,Background Check Exception,2024-03-10,True
+17965,Policy Violation,2024-07-14,False
+11609,Background Check Exception,2024-12-31,False
+15744,Background Check Exception,2023-09-07,True
+11986,Missed Training,2025-02-03,True
+17691,Missed Training,2023-04-16,True
+13814,Background Check Exception,2023-12-16,True
+10180,Background Check Exception,2023-12-15,True
+18756,Policy Violation,2024-08-02,True
+10871,Policy Violation,2025-06-05,True
+13955,Policy Violation,2023-12-18,False
+21139,Policy Violation,2023-07-13,True
+356,Missed Training,2023-04-14,True
+10424,Missed Training,2024-08-17,True
+11283,Background Check Exception,2023-12-12,False
+1768,Missed Training,2023-07-28,True
+4716,Background Check Exception,2024-04-10,True
+14789,Missed Training,2024-03-26,False
+10905,Missed Training,2023-08-18,True
+16550,Policy Violation,2024-07-23,True
+14170,Background Check Exception,2025-03-06,True
+5484,Policy Violation,2023-10-10,True
+2866,Policy Violation,2024-07-05,False
+18843,Background Check Exception,2022-11-07,True
+8328,Background Check Exception,2024-06-19,False
+1580,Policy Violation,2023-07-26,False
+15158,Policy Violation,2023-09-09,True
+22464,Policy Violation,2025-06-30,False
+13642,Policy Violation,2024-05-16,True
+11647,Missed Training,2023-04-02,True
+1939,Policy Violation,2025-01-02,True
+16497,Missed Training,2023-07-07,True
+16436,Policy Violation,2023-10-02,False
+7720,Background Check Exception,2023-12-20,True
+3951,Background Check Exception,2022-10-17,True
+4233,Missed Training,2024-02-29,False
+5570,Missed Training,2025-07-02,True
+16509,Background Check Exception,2024-07-14,False
+19514,Policy Violation,2025-07-02,True
+22568,Policy Violation,2024-08-29,True
+7342,Background Check Exception,2023-05-22,False
+20919,Missed Training,2025-08-27,False
+9014,Policy Violation,2025-09-13,True
+11851,Background Check Exception,2024-12-24,False
+19439,Policy Violation,2024-03-28,True
+6261,Background Check Exception,2024-09-15,True
+21772,Background Check Exception,2023-01-31,True
+1530,Policy Violation,2025-07-01,False
+13882,Missed Training,2024-05-09,True
+19735,Missed Training,2024-12-19,True
+3124,Background Check Exception,2024-10-05,True
+16060,Missed Training,2024-04-27,True
+4310,Background Check Exception,2023-07-11,True
+12351,Background Check Exception,2023-04-23,False
+10777,Policy Violation,2024-12-02,True
+6590,Background Check Exception,2023-04-04,False
+1373,Background Check Exception,2023-04-25,True
+18723,Missed Training,2023-04-22,False
+6692,Missed Training,2024-11-23,True
+20540,Background Check Exception,2023-09-03,True
+11742,Policy Violation,2024-11-21,False
+3075,Policy Violation,2024-10-08,True
+35,Missed Training,2023-11-10,False
+845,Policy Violation,2023-02-09,False
+14620,Missed Training,2023-01-29,False
+5409,Policy Violation,2025-05-08,True
+9479,Missed Training,2023-08-31,True
+17628,Missed Training,2023-09-01,True
+3188,Missed Training,2022-11-04,True
+21557,Policy Violation,2023-10-01,False
+4086,Background Check Exception,2023-10-22,False
+8042,Missed Training,2023-08-08,False
+21613,Policy Violation,2023-11-18,True
+7454,Background Check Exception,2024-08-28,True
+14082,Background Check Exception,2024-10-17,False
+11908,Missed Training,2023-04-19,True
+20535,Background Check Exception,2023-12-10,True
+1010,Missed Training,2023-03-24,True
+20728,Missed Training,2022-11-25,True
+1307,Policy Violation,2023-12-01,False
+6575,Missed Training,2024-11-11,False
+9164,Missed Training,2023-12-08,True
+11565,Policy Violation,2023-08-07,False
+11758,Policy Violation,2024-01-24,False
+17862,Background Check Exception,2023-10-20,False
+6374,Background Check Exception,2023-04-01,True
+9762,Policy Violation,2022-10-22,False
+19236,Policy Violation,2022-10-11,False
+14082,Missed Training,2025-01-01,False
+1970,Background Check Exception,2023-05-01,True
+21613,Background Check Exception,2024-05-16,True
+7712,Background Check Exception,2023-03-17,True
+4945,Background Check Exception,2025-03-05,True
+12450,Policy Violation,2023-11-16,False
+21253,Missed Training,2023-08-23,True
+6947,Missed Training,2024-08-13,True
+7224,Missed Training,2022-12-25,True
+2504,Missed Training,2023-12-13,False
+2453,Missed Training,2023-04-14,True
+3188,Missed Training,2025-01-25,True
+3642,Missed Training,2023-11-19,False
+7514,Policy Violation,2024-12-22,False
+13899,Policy Violation,2025-01-06,True
+4075,Missed Training,2025-03-19,False
+12791,Policy Violation,2023-10-29,True
+15180,Policy Violation,2022-12-20,True
+19486,Policy Violation,2024-10-28,True
+5795,Policy Violation,2024-08-04,True
+5698,Missed Training,2023-11-13,True
+16287,Missed Training,2024-08-08,True
+21164,Background Check Exception,2024-07-21,True
+21045,Policy Violation,2025-01-31,True
+1977,Background Check Exception,2023-03-04,True
+1316,Policy Violation,2024-12-24,False
+13311,Missed Training,2024-03-13,True
+5412,Background Check Exception,2023-07-02,True
+3098,Missed Training,2023-12-09,True
+13206,Missed Training,2023-01-31,True
+21538,Missed Training,2023-07-04,True
+19969,Background Check Exception,2025-02-05,True
+7012,Background Check Exception,2023-08-23,True
+14341,Missed Training,2023-09-01,True
+10483,Policy Violation,2024-02-07,True
+23577,Missed Training,2023-06-02,True
+11453,Policy Violation,2024-04-22,False
+21637,Policy Violation,2023-10-23,True
+9339,Missed Training,2022-12-22,True
+18853,Missed Training,2023-04-05,True
+9907,Background Check Exception,2023-06-14,False
+15448,Background Check Exception,2024-07-24,False
+4397,Policy Violation,2024-05-12,True
+7338,Missed Training,2023-07-25,True
+5688,Background Check Exception,2023-05-01,True
+6102,Policy Violation,2025-04-11,True
+587,Background Check Exception,2022-11-23,True
+22118,Policy Violation,2024-05-21,True
+19470,Background Check Exception,2025-07-30,True
+1704,Background Check Exception,2024-09-04,True
+16792,Background Check Exception,2023-04-07,True
+29,Missed Training,2023-11-30,True
+18181,Background Check Exception,2022-12-14,True
+14977,Background Check Exception,2024-04-25,True
+9997,Missed Training,2022-12-17,True
+20744,Missed Training,2022-12-11,True
+5831,Policy Violation,2025-02-21,False
+6735,Background Check Exception,2025-05-13,True
+2414,Policy Violation,2024-11-16,True
+16480,Missed Training,2023-01-01,True
+11542,Missed Training,2024-04-03,True
+4365,Missed Training,2025-05-26,True
+9886,Background Check Exception,2024-11-26,False
+1300,Missed Training,2024-09-20,False
+5545,Missed Training,2024-08-30,True
+23380,Policy Violation,2024-04-08,True
+20027,Missed Training,2024-05-01,True
+1516,Background Check Exception,2025-06-05,True
+9074,Missed Training,2023-10-07,True
+17866,Policy Violation,2024-01-26,True
+16909,Background Check Exception,2022-11-24,False
+3739,Background Check Exception,2023-03-18,False
+11398,Missed Training,2023-10-25,True
+3191,Policy Violation,2023-08-14,True
+1239,Policy Violation,2023-01-16,True
+14078,Missed Training,2025-01-15,True
+16458,Policy Violation,2023-06-27,True
+6098,Missed Training,2024-07-24,False
+9607,Policy Violation,2025-04-03,True
+14493,Missed Training,2025-04-26,True
+8537,Background Check Exception,2023-01-24,False
+19402,Missed Training,2023-09-28,True
+18789,Policy Violation,2023-04-21,False
+4501,Missed Training,2023-10-23,True
+9529,Background Check Exception,2022-10-31,False
+14975,Policy Violation,2024-05-23,False
+21398,Missed Training,2024-10-12,True
+2464,Background Check Exception,2023-04-28,False
+18676,Missed Training,2023-12-01,False
+5518,Policy Violation,2023-09-21,True
+13354,Background Check Exception,2025-03-03,True
+11148,Missed Training,2022-09-19,True
+13833,Missed Training,2025-02-25,True
+11664,Policy Violation,2022-10-26,False
+1381,Missed Training,2024-11-21,False
+12126,Policy Violation,2022-12-26,True
+15653,Policy Violation,2023-11-11,True
+15816,Missed Training,2024-09-26,True
+18077,Missed Training,2023-07-10,True
+5568,Missed Training,2025-06-23,False
+5551,Policy Violation,2023-10-30,True
+23440,Background Check Exception,2022-10-01,True
+23910,Background Check Exception,2024-05-24,True
+15436,Missed Training,2025-02-01,True
+18509,Missed Training,2024-02-03,True
+4210,Missed Training,2023-02-15,False
+1845,Missed Training,2024-04-16,False
+9921,Missed Training,2025-02-16,True
+1217,Missed Training,2022-09-25,True
+11020,Missed Training,2025-06-03,True
+16793,Policy Violation,2022-12-30,True
+14734,Policy Violation,2025-07-18,True
+18054,Background Check Exception,2024-01-03,True
+18424,Missed Training,2024-03-26,True
+18125,Policy Violation,2023-11-08,True
+9996,Policy Violation,2025-01-27,False
+8511,Missed Training,2023-02-25,True
+21777,Background Check Exception,2025-03-18,True
+544,Policy Violation,2023-12-12,True
+18279,Policy Violation,2024-09-19,True
+11664,Missed Training,2024-07-25,True
+9494,Background Check Exception,2022-10-07,False
+19496,Missed Training,2024-07-05,True
+19865,Background Check Exception,2024-08-02,False
+15240,Background Check Exception,2025-07-26,True
+12699,Missed Training,2023-12-23,True
+11680,Policy Violation,2025-06-11,True
+4919,Missed Training,2023-02-13,True
+9592,Background Check Exception,2023-03-23,True
+14590,Background Check Exception,2024-09-19,True
+12571,Missed Training,2025-05-04,True
+20668,Missed Training,2024-06-14,True
+11590,Policy Violation,2022-12-04,True
+20362,Background Check Exception,2024-02-01,False
+9076,Background Check Exception,2022-10-09,True
+52,Missed Training,2025-07-02,False
+18925,Background Check Exception,2023-04-03,True
+12302,Policy Violation,2025-08-22,True
+17980,Background Check Exception,2023-01-25,True
+12195,Policy Violation,2025-06-02,True
+2847,Policy Violation,2024-03-22,False
+7288,Missed Training,2024-05-14,False
+7323,Policy Violation,2023-02-20,True
+7858,Missed Training,2023-05-26,True
+21962,Background Check Exception,2023-04-19,True
+16087,Missed Training,2024-02-23,True
+19584,Missed Training,2023-11-12,False
+12828,Missed Training,2024-03-08,True
+20791,Policy Violation,2025-05-21,True
+14951,Policy Violation,2023-07-12,False
+12898,Background Check Exception,2024-05-01,True
+15812,Missed Training,2025-07-28,True
+14601,Background Check Exception,2023-03-17,True
+1224,Policy Violation,2025-05-09,True
+11312,Missed Training,2023-07-09,True
+12213,Missed Training,2022-10-30,True
+14759,Policy Violation,2025-02-07,False
+9203,Missed Training,2023-09-16,True
+1344,Background Check Exception,2024-11-11,True
+17472,Background Check Exception,2025-01-14,True
+15086,Background Check Exception,2023-08-17,True
+17402,Background Check Exception,2022-10-04,False
+891,Missed Training,2023-07-27,True
+5501,Background Check Exception,2022-09-19,True
+5573,Missed Training,2023-07-11,False
+16918,Missed Training,2024-04-26,False
+20552,Missed Training,2025-06-12,False
+5615,Background Check Exception,2023-09-12,True
+20829,Background Check Exception,2025-08-26,False
+812,Missed Training,2025-07-27,False
+257,Missed Training,2023-08-26,True
+5218,Missed Training,2023-01-28,True
+13632,Missed Training,2023-08-11,True
+449,Missed Training,2025-07-18,False
+9068,Policy Violation,2023-11-14,True
+9313,Policy Violation,2023-02-17,True
+13035,Policy Violation,2025-02-03,True
+4100,Policy Violation,2023-08-25,True
+16487,Policy Violation,2023-09-10,True
+5332,Background Check Exception,2022-11-28,True
+19375,Missed Training,2023-12-12,True
+9393,Policy Violation,2025-09-04,True
+10219,Missed Training,2025-05-17,False
+11147,Missed Training,2025-03-12,False
+19614,Missed Training,2025-03-26,False
+21891,Background Check Exception,2025-06-18,True
+21733,Missed Training,2023-04-24,True
+9444,Missed Training,2024-10-14,True
+22942,Policy Violation,2024-12-12,True
+8951,Background Check Exception,2023-11-14,True
+8004,Background Check Exception,2024-02-25,True
+12536,Missed Training,2024-01-05,False
+19657,Background Check Exception,2024-03-27,False
+19338,Policy Violation,2024-06-19,True
+16608,Policy Violation,2025-07-17,True
+14120,Policy Violation,2023-11-16,True
+2759,Missed Training,2024-03-29,True
+10228,Policy Violation,2025-04-23,False
+14339,Background Check Exception,2022-12-18,False
+4049,Background Check Exception,2023-05-25,True
+18606,Policy Violation,2025-03-16,False
+1959,Missed Training,2023-11-09,True
+4191,Policy Violation,2023-12-02,False
+6488,Missed Training,2024-12-06,True
+13206,Policy Violation,2023-01-17,True
+4968,Background Check Exception,2023-11-29,True
+8217,Missed Training,2024-05-07,True
+441,Missed Training,2024-03-03,True
+19381,Policy Violation,2023-01-03,True
+12822,Policy Violation,2023-08-21,True
+10466,Background Check Exception,2023-06-05,True
+19581,Background Check Exception,2024-08-29,True
+13892,Policy Violation,2024-04-23,True
+21020,Policy Violation,2024-08-30,False
+1546,Background Check Exception,2024-08-05,False
+15002,Missed Training,2023-04-24,True
+20342,Background Check Exception,2023-05-18,True
+20738,Policy Violation,2024-04-03,True
+1334,Missed Training,2023-09-16,False
+12972,Missed Training,2024-04-14,True
+15960,Missed Training,2024-10-25,True
+17510,Background Check Exception,2024-04-18,True
+6981,Missed Training,2024-05-20,True
+14817,Policy Violation,2025-07-31,False
+11000,Background Check Exception,2024-02-23,True
+16587,Missed Training,2025-07-03,False
+10015,Missed Training,2022-12-23,True
+23186,Policy Violation,2023-11-17,False
+20941,Missed Training,2022-12-18,True
+17681,Missed Training,2023-01-29,True
+1558,Missed Training,2024-11-21,True
+10677,Background Check Exception,2024-11-10,True
+8149,Missed Training,2023-01-30,True
+16529,Policy Violation,2024-07-13,True
+5463,Policy Violation,2024-05-05,True
+9295,Background Check Exception,2024-02-06,True
+24,Policy Violation,2023-06-29,True
+3097,Background Check Exception,2023-09-30,True
+23951,Missed Training,2022-09-25,True
+13968,Missed Training,2024-03-14,True
+13604,Missed Training,2024-04-12,True
+1901,Background Check Exception,2024-07-19,True
+15458,Policy Violation,2023-05-26,True
+22569,Background Check Exception,2024-07-11,True
+13006,Policy Violation,2023-09-12,True
+615,Background Check Exception,2023-09-08,True
+19231,Policy Violation,2023-12-12,True
+2651,Missed Training,2024-07-26,True
+13716,Background Check Exception,2024-03-24,True
+18261,Missed Training,2022-11-14,True
+17075,Background Check Exception,2023-10-17,True
+20893,Policy Violation,2022-11-11,False
+20279,Missed Training,2022-10-17,True
+5726,Missed Training,2024-09-14,False
+10181,Missed Training,2023-08-19,False
+11221,Background Check Exception,2023-08-15,True
+12411,Policy Violation,2024-12-20,True
+859,Missed Training,2024-05-29,True
+12903,Policy Violation,2023-09-28,True
+18569,Policy Violation,2025-03-14,True
+12650,Background Check Exception,2022-09-16,True
+20192,Background Check Exception,2023-05-28,True
+2064,Policy Violation,2025-05-01,False
+14024,Background Check Exception,2023-09-08,True
+13167,Missed Training,2024-07-01,True
+15099,Policy Violation,2023-05-04,True
+16367,Missed Training,2023-04-23,True
+5207,Background Check Exception,2023-10-10,True
+2706,Background Check Exception,2023-03-17,True
+3295,Policy Violation,2024-08-17,True
+12210,Policy Violation,2023-06-07,False
+14416,Missed Training,2022-09-29,True
+683,Policy Violation,2024-05-26,True
+5454,Missed Training,2024-01-15,False
+16868,Policy Violation,2025-04-07,True
+23491,Background Check Exception,2025-07-15,True
+14061,Policy Violation,2024-03-01,True
+9897,Missed Training,2023-12-22,True
+5520,Background Check Exception,2025-09-01,False
+23618,Background Check Exception,2023-11-01,True
+12877,Policy Violation,2024-01-19,False
+5061,Policy Violation,2025-08-20,False
+15026,Missed Training,2025-07-12,True
+1035,Background Check Exception,2022-10-02,True
+10789,Background Check Exception,2025-02-03,False
+23888,Policy Violation,2024-02-10,True
+19565,Background Check Exception,2022-11-14,True
+4028,Background Check Exception,2023-10-04,True
+7813,Background Check Exception,2023-12-20,False
+13624,Policy Violation,2025-05-02,True
+8789,Missed Training,2023-08-31,False
+18697,Background Check Exception,2023-04-22,True
+11633,Background Check Exception,2023-12-12,True
+3036,Background Check Exception,2024-07-08,True
+16108,Policy Violation,2023-04-19,False
+2745,Background Check Exception,2024-12-04,True
+6448,Policy Violation,2023-04-09,True
+6941,Missed Training,2025-08-17,True
+8653,Missed Training,2023-11-11,True
+5811,Background Check Exception,2024-10-19,True
+18506,Background Check Exception,2024-12-22,True
+14148,Missed Training,2023-11-02,True
+20965,Policy Violation,2023-05-21,True
+3316,Policy Violation,2025-06-08,True
+786,Missed Training,2022-10-24,True
+20678,Policy Violation,2024-12-26,True
+14639,Background Check Exception,2023-05-10,True
+3298,Missed Training,2025-03-08,True
+14078,Policy Violation,2025-01-01,False
+10065,Missed Training,2025-08-18,False
+19345,Background Check Exception,2024-06-01,True
+15628,Background Check Exception,2022-10-19,False
+19274,Background Check Exception,2024-01-18,False
+22708,Background Check Exception,2023-05-28,True
+18994,Policy Violation,2023-06-17,True
+2590,Background Check Exception,2023-03-01,True
+14821,Missed Training,2023-06-11,False
+20369,Background Check Exception,2022-11-24,True
+16157,Background Check Exception,2024-10-29,True
+23745,Missed Training,2024-09-11,False
+21522,Background Check Exception,2025-01-30,False
+10431,Missed Training,2023-02-12,True
+20015,Policy Violation,2025-02-24,True
+11132,Policy Violation,2025-07-30,False
+21916,Policy Violation,2022-11-18,False
+15797,Policy Violation,2024-08-29,False
+11818,Background Check Exception,2024-05-23,True
+1822,Background Check Exception,2025-01-03,True
+3786,Missed Training,2023-01-11,False
+17934,Policy Violation,2024-06-23,True
+21293,Missed Training,2025-07-12,False
+6811,Background Check Exception,2023-02-26,True
+23980,Background Check Exception,2024-07-24,True
+22899,Policy Violation,2024-09-20,False
+2940,Policy Violation,2023-07-10,True
+2658,Policy Violation,2022-11-20,True
+4668,Background Check Exception,2024-01-14,True
+8633,Missed Training,2023-02-05,False
+12225,Missed Training,2025-04-05,True
+10275,Missed Training,2023-10-21,False
+1171,Missed Training,2025-02-11,True
+23843,Policy Violation,2024-12-15,True
+10473,Policy Violation,2023-03-25,True
+12059,Missed Training,2025-01-07,True
+22397,Background Check Exception,2025-01-30,True
+23918,Missed Training,2022-12-04,True
+5798,Background Check Exception,2022-10-10,True
+10322,Policy Violation,2024-12-28,True
+8544,Missed Training,2022-11-21,False
+11104,Missed Training,2023-10-02,True
+14109,Background Check Exception,2023-03-12,True
+1344,Background Check Exception,2024-11-27,True
+263,Missed Training,2025-08-03,False
+22153,Missed Training,2023-09-10,True
+20386,Missed Training,2024-02-15,False
+7120,Missed Training,2025-04-07,False
+20728,Background Check Exception,2024-12-21,True
+14509,Background Check Exception,2024-01-14,True
+11176,Background Check Exception,2023-01-30,False
+18232,Missed Training,2022-11-29,True
+16607,Policy Violation,2025-08-04,True
+17543,Policy Violation,2025-02-03,False
+8420,Policy Violation,2024-03-29,False
+19104,Missed Training,2023-02-26,True
+22982,Background Check Exception,2023-09-14,True
+5843,Missed Training,2023-07-20,True
+19956,Policy Violation,2025-04-08,True
+7900,Background Check Exception,2023-03-03,True
+17428,Policy Violation,2025-06-10,True
+16275,Missed Training,2025-06-25,True
+17783,Policy Violation,2022-11-09,True
+22359,Policy Violation,2024-07-13,True
+8805,Policy Violation,2023-08-31,True
+15040,Background Check Exception,2024-02-09,True
+2096,Background Check Exception,2023-10-05,True
+10439,Missed Training,2024-02-02,True
+148,Policy Violation,2025-05-21,False
+14731,Policy Violation,2023-03-17,False
+4977,Missed Training,2023-02-19,True
+22513,Background Check Exception,2025-04-28,True
+17008,Background Check Exception,2024-07-22,True
+16213,Missed Training,2024-02-19,True
+20346,Background Check Exception,2023-03-15,True
+9255,Policy Violation,2024-09-14,True
+419,Background Check Exception,2025-01-12,True
+10877,Background Check Exception,2022-12-17,True
+4902,Background Check Exception,2024-07-23,True
+21861,Missed Training,2024-09-10,False
+11251,Background Check Exception,2023-09-06,True
+18348,Background Check Exception,2024-09-05,True
+18373,Missed Training,2023-05-07,False
+5568,Policy Violation,2023-11-13,True
+15644,Background Check Exception,2024-08-10,True
+17711,Missed Training,2023-12-16,False
+5581,Background Check Exception,2023-05-25,True
+4356,Background Check Exception,2023-07-14,True
+17023,Policy Violation,2023-01-15,True
+6868,Background Check Exception,2025-04-18,True
+12978,Policy Violation,2025-01-20,True
+21942,Policy Violation,2025-05-05,False
+1275,Background Check Exception,2024-06-11,True
+9928,Missed Training,2022-11-13,False
+62,Missed Training,2023-11-23,False
+13049,Policy Violation,2024-01-20,True
+11169,Missed Training,2024-07-03,False
+1951,Policy Violation,2023-01-03,True
+10812,Missed Training,2024-04-24,False
+18244,Missed Training,2024-01-07,False
+21797,Background Check Exception,2025-03-16,True
+9790,Background Check Exception,2023-01-07,False
+10234,Missed Training,2023-05-15,True
+21706,Background Check Exception,2024-12-01,True
+18912,Background Check Exception,2025-06-26,True
+20725,Policy Violation,2023-07-04,False
+20973,Policy Violation,2023-03-22,True
+22910,Policy Violation,2023-04-21,True
+15204,Background Check Exception,2025-07-04,True
+3857,Background Check Exception,2023-08-16,False
+18112,Background Check Exception,2025-05-22,True
+16779,Missed Training,2024-06-16,True
+115,Background Check Exception,2024-01-28,False
+859,Background Check Exception,2022-11-02,True
+22396,Missed Training,2025-05-20,False
+22464,Background Check Exception,2024-06-04,True
+21092,Background Check Exception,2023-02-13,True
+15735,Background Check Exception,2024-05-12,True
+15278,Missed Training,2025-06-05,True
+20740,Policy Violation,2023-07-23,True
+9269,Policy Violation,2025-02-13,True
+4571,Background Check Exception,2024-09-01,True
+20688,Background Check Exception,2023-08-07,False
+17077,Missed Training,2024-04-06,True
+14728,Policy Violation,2024-11-05,True
+8221,Background Check Exception,2024-11-22,True
+512,Background Check Exception,2023-07-05,False
+15965,Missed Training,2023-06-01,True
+10341,Policy Violation,2023-02-18,True
+394,Policy Violation,2025-09-12,True
+1803,Missed Training,2025-04-29,False
+19120,Background Check Exception,2025-02-16,False
+7695,Background Check Exception,2023-07-03,True
+1504,Policy Violation,2024-05-03,True
+15440,Policy Violation,2024-09-20,True
+23437,Background Check Exception,2025-07-06,False
+19503,Missed Training,2025-03-07,True
+5911,Background Check Exception,2025-04-29,False
+5929,Background Check Exception,2024-04-22,True
+13243,Background Check Exception,2023-02-12,True
+9244,Missed Training,2022-10-16,True
+9765,Missed Training,2025-04-26,True
+14059,Background Check Exception,2024-11-02,True
+3974,Missed Training,2024-01-06,True
+5264,Background Check Exception,2023-07-25,False
+18097,Background Check Exception,2023-09-26,True
+9433,Policy Violation,2025-02-15,True
+2561,Policy Violation,2024-07-27,True
+20841,Policy Violation,2025-08-17,False
+21307,Background Check Exception,2024-07-19,True
+5941,Missed Training,2023-11-11,True
+2817,Missed Training,2024-12-17,True
+13348,Background Check Exception,2023-11-02,True
+4806,Policy Violation,2023-09-21,True
+18706,Missed Training,2024-08-31,False
+3718,Background Check Exception,2023-03-10,True
+6136,Background Check Exception,2024-05-25,True
+6930,Policy Violation,2023-07-26,False
+19343,Policy Violation,2022-11-23,False
+8010,Missed Training,2024-03-29,True
+22639,Policy Violation,2023-05-15,True
+19951,Missed Training,2023-05-06,True
+22663,Missed Training,2023-09-21,True
+16697,Policy Violation,2024-10-16,False
+21302,Missed Training,2023-02-01,True
+14044,Missed Training,2024-03-21,True
+6792,Policy Violation,2023-09-20,True
+5801,Background Check Exception,2023-11-12,False
+13743,Missed Training,2025-07-26,True
+7100,Background Check Exception,2022-10-31,False
+17212,Missed Training,2025-09-14,True
+23442,Policy Violation,2023-08-04,False
+12155,Policy Violation,2023-07-21,True
+1541,Missed Training,2023-11-18,False
+10732,Policy Violation,2024-06-21,True
+6703,Background Check Exception,2024-08-29,True
+3283,Missed Training,2023-07-27,True
+12937,Missed Training,2023-05-19,False
+7978,Background Check Exception,2023-05-26,True
+14775,Background Check Exception,2023-01-05,True
+19629,Missed Training,2022-12-06,True
+19894,Policy Violation,2024-05-13,True
+22689,Background Check Exception,2022-12-21,True
+10623,Policy Violation,2025-02-26,False
+12502,Background Check Exception,2025-01-02,True
+9070,Policy Violation,2024-12-14,False
+21762,Missed Training,2023-10-07,True
+1716,Policy Violation,2025-06-01,True
+19746,Policy Violation,2022-11-16,True
+17098,Policy Violation,2025-07-09,False
+9873,Background Check Exception,2023-08-09,False
+21800,Background Check Exception,2024-07-13,True
+6734,Missed Training,2022-09-24,False
+16589,Policy Violation,2024-10-12,False
+5896,Missed Training,2024-02-01,True
+22413,Missed Training,2023-06-03,True
+792,Missed Training,2023-02-02,True
+22136,Policy Violation,2024-09-15,True
+2587,Missed Training,2025-02-21,False
+18529,Missed Training,2024-11-09,True
+19593,Policy Violation,2024-02-27,False
+12828,Missed Training,2025-08-20,True
+1645,Background Check Exception,2024-03-29,True
+10715,Background Check Exception,2023-08-14,True
+11082,Background Check Exception,2023-09-28,False
+22498,Background Check Exception,2025-06-24,True
+15715,Missed Training,2025-05-29,True
+5384,Policy Violation,2025-06-30,True
+20582,Background Check Exception,2022-12-11,True
+17938,Missed Training,2022-10-05,False
+11404,Policy Violation,2025-03-16,False
+11477,Missed Training,2025-01-14,True
+17707,Missed Training,2023-12-15,False
+4036,Background Check Exception,2024-10-02,True
+21231,Background Check Exception,2023-10-26,False
+23761,Missed Training,2024-11-17,False
+11527,Policy Violation,2025-05-10,True
+7882,Policy Violation,2024-10-29,True
+23510,Missed Training,2023-06-20,True
+653,Missed Training,2023-02-01,True
+13003,Policy Violation,2024-07-23,False
+7598,Background Check Exception,2024-01-13,True
+11615,Missed Training,2024-10-24,False
+21694,Missed Training,2024-05-31,True
+8937,Policy Violation,2025-05-09,True
+10230,Background Check Exception,2024-09-17,False
+8290,Background Check Exception,2023-03-10,True
+406,Missed Training,2024-03-18,False
+1255,Policy Violation,2024-06-12,False
+4068,Background Check Exception,2023-06-10,True
+7731,Missed Training,2023-02-10,False
+21429,Missed Training,2025-04-03,False
+5038,Policy Violation,2023-11-18,True
+11454,Policy Violation,2025-01-25,False
+9980,Policy Violation,2023-09-08,True
+14962,Missed Training,2025-05-25,False
+15641,Missed Training,2025-03-22,False
+16090,Background Check Exception,2024-01-06,True
+694,Background Check Exception,2025-06-08,False
+12293,Missed Training,2022-10-28,True
+7143,Missed Training,2024-09-17,True
+7213,Background Check Exception,2024-01-05,False
+615,Missed Training,2022-11-03,True
+3103,Policy Violation,2023-09-24,False
+3924,Background Check Exception,2022-09-19,True
+6879,Missed Training,2024-04-15,True
+23103,Policy Violation,2025-01-23,True
+7947,Policy Violation,2023-04-22,True
+10242,Missed Training,2024-02-28,True
+299,Missed Training,2025-08-19,True
+16007,Policy Violation,2023-12-21,True
+11972,Background Check Exception,2024-04-15,False
+12401,Missed Training,2023-05-16,True
+7105,Missed Training,2025-04-01,False
+14996,Background Check Exception,2024-02-01,False
+9009,Policy Violation,2022-11-08,False
+1979,Background Check Exception,2025-06-15,False
+4007,Policy Violation,2022-12-07,False
+2372,Policy Violation,2024-07-20,False
+6548,Missed Training,2024-02-23,True
+22827,Policy Violation,2022-10-23,True
+16250,Background Check Exception,2024-03-12,True
+23792,Policy Violation,2025-05-04,True
+6260,Background Check Exception,2025-06-20,False
+23151,Background Check Exception,2023-10-18,True
+4781,Background Check Exception,2024-04-23,True
+7419,Background Check Exception,2023-10-07,True
+19678,Missed Training,2023-02-18,True
+20676,Background Check Exception,2023-02-28,True
+4062,Background Check Exception,2023-09-19,True
+22504,Background Check Exception,2023-11-02,True
+23128,Missed Training,2024-08-31,True
+4349,Policy Violation,2023-11-27,True
+13694,Background Check Exception,2024-10-02,False
+5712,Policy Violation,2022-11-16,False
+8415,Background Check Exception,2024-09-05,True
+21367,Policy Violation,2023-06-06,True
+14739,Background Check Exception,2024-07-08,True
+14076,Policy Violation,2022-11-09,False
+17757,Background Check Exception,2023-05-31,True
+23445,Policy Violation,2024-02-09,True
+2631,Policy Violation,2024-11-20,True
+8219,Background Check Exception,2024-03-12,False
+11177,Policy Violation,2022-12-31,True
+16099,Policy Violation,2023-07-31,True
+7527,Policy Violation,2022-11-25,True
+984,Background Check Exception,2024-06-06,True
+10372,Background Check Exception,2022-10-30,False
+13343,Background Check Exception,2025-08-10,True
+8982,Missed Training,2024-08-31,True
+23324,Background Check Exception,2024-06-16,True
+9217,Background Check Exception,2023-01-29,False
+13083,Policy Violation,2022-12-11,True
+15746,Missed Training,2024-06-11,True
+11054,Missed Training,2024-08-24,True
+7390,Background Check Exception,2023-01-28,True
+22693,Policy Violation,2024-02-12,False
+3605,Background Check Exception,2023-09-27,False
+13867,Policy Violation,2023-10-20,True
+18476,Policy Violation,2025-02-19,True
+23114,Policy Violation,2024-11-25,False
+21576,Policy Violation,2024-09-13,False
+7975,Missed Training,2023-07-20,True
+4443,Missed Training,2025-03-01,True
+21964,Background Check Exception,2024-03-29,True
+13863,Background Check Exception,2024-09-03,False
+19142,Policy Violation,2024-05-18,True
+11179,Missed Training,2023-05-14,True
+16879,Missed Training,2023-03-25,False
+5655,Policy Violation,2023-12-12,True
+1390,Policy Violation,2025-04-22,True
+8087,Policy Violation,2024-06-07,True
+18081,Missed Training,2024-06-05,True
+598,Policy Violation,2024-11-20,False
+10309,Missed Training,2023-01-09,False
+13838,Policy Violation,2024-05-24,False
+5681,Policy Violation,2024-10-06,False
+14681,Policy Violation,2024-05-06,False
+13953,Policy Violation,2023-05-25,True
+21569,Background Check Exception,2023-01-27,True
+4163,Background Check Exception,2023-01-09,True
+8058,Missed Training,2022-09-28,True
+10302,Policy Violation,2023-09-02,True
+8902,Background Check Exception,2024-08-09,False
+5691,Background Check Exception,2022-12-16,True
+17044,Policy Violation,2023-06-15,True
+3445,Policy Violation,2024-09-17,True
+11317,Background Check Exception,2023-04-20,True
+2866,Background Check Exception,2023-06-08,True
+10461,Policy Violation,2024-02-25,True
+16744,Background Check Exception,2025-06-19,False
+4731,Background Check Exception,2025-03-12,False
+12724,Missed Training,2022-12-17,True
+5197,Policy Violation,2023-02-22,False
+8724,Background Check Exception,2023-09-08,True
+4240,Background Check Exception,2024-09-18,True
+8976,Background Check Exception,2023-06-06,True
+146,Policy Violation,2024-04-27,False
+14520,Background Check Exception,2025-07-14,True
+16992,Policy Violation,2023-03-31,False
+8308,Policy Violation,2023-04-29,True
+1449,Missed Training,2023-02-24,True
+3008,Policy Violation,2025-04-23,False
+12934,Policy Violation,2024-08-31,True
+7519,Missed Training,2025-06-24,True
+14313,Background Check Exception,2022-10-08,True
+17500,Policy Violation,2025-08-24,True
+22814,Background Check Exception,2023-02-12,True
+7670,Missed Training,2025-02-01,True
+3981,Background Check Exception,2024-08-12,True
+17904,Policy Violation,2024-09-29,False
+11972,Policy Violation,2023-10-19,True
+16623,Policy Violation,2025-08-14,True
+21976,Missed Training,2024-01-02,True
+6775,Background Check Exception,2025-08-17,False
+11912,Missed Training,2024-06-13,False
+7907,Policy Violation,2024-06-27,True
+1847,Policy Violation,2025-01-29,False
+11496,Missed Training,2022-12-22,True
+5001,Policy Violation,2024-06-21,True
+4439,Background Check Exception,2022-11-21,True
+13750,Policy Violation,2022-11-02,True
+17075,Missed Training,2023-04-29,False
+12832,Background Check Exception,2022-09-19,True
+436,Missed Training,2025-07-26,False
+2614,Policy Violation,2023-11-02,True
+6225,Missed Training,2023-06-03,True
+15807,Background Check Exception,2023-08-14,False
+10253,Background Check Exception,2025-05-11,True
+5352,Background Check Exception,2023-06-03,True
+18627,Background Check Exception,2023-12-15,False
+23521,Policy Violation,2023-12-31,True
+3784,Missed Training,2023-01-20,True
+23033,Policy Violation,2024-07-30,True
+23208,Missed Training,2024-04-13,False
+9880,Policy Violation,2025-05-31,False
+22772,Background Check Exception,2023-11-16,True
+8924,Missed Training,2025-08-21,True
+20398,Missed Training,2024-09-29,True
+7213,Missed Training,2023-12-25,False
+23718,Missed Training,2022-09-16,False
+9667,Policy Violation,2023-02-17,True
+1203,Missed Training,2023-10-14,True
+12031,Policy Violation,2024-03-17,True
+2483,Background Check Exception,2024-12-25,True
+5888,Policy Violation,2025-05-05,True
+21592,Policy Violation,2025-05-03,True
+3006,Policy Violation,2025-08-03,True
+16800,Missed Training,2025-02-22,True
+18361,Missed Training,2022-11-28,True
+20093,Background Check Exception,2025-01-19,False
+15643,Missed Training,2022-11-27,True
+14869,Missed Training,2024-12-02,True
+14733,Background Check Exception,2025-07-08,True
+8116,Background Check Exception,2025-04-18,False
+10344,Background Check Exception,2025-03-31,True
+10502,Policy Violation,2025-06-04,True
+4361,Background Check Exception,2024-01-04,True
+18762,Missed Training,2025-07-28,True
+12343,Background Check Exception,2023-04-04,True
+13383,Policy Violation,2023-04-18,False
+2814,Background Check Exception,2025-05-01,True
+14663,Background Check Exception,2023-09-10,False
+16540,Missed Training,2025-06-24,True
+12225,Background Check Exception,2023-03-02,False
+4781,Policy Violation,2024-06-10,True
+8602,Missed Training,2023-03-23,True
+5750,Background Check Exception,2022-11-16,True
+19946,Background Check Exception,2024-10-26,True
+5875,Background Check Exception,2023-09-12,True
+10328,Missed Training,2023-05-07,False
+5226,Missed Training,2023-02-21,True
+23946,Missed Training,2025-08-07,True
+13354,Background Check Exception,2022-11-16,True
+9517,Policy Violation,2024-09-15,False
+782,Policy Violation,2023-12-23,False
+18976,Policy Violation,2024-09-15,True
+7654,Missed Training,2024-08-06,False
+18141,Missed Training,2025-01-23,True
+8799,Policy Violation,2022-10-24,True
+19904,Missed Training,2024-04-03,False
+18008,Background Check Exception,2024-02-04,True
+5534,Policy Violation,2025-04-21,True
+7145,Background Check Exception,2024-07-07,True
+13097,Missed Training,2024-11-01,True
+22244,Background Check Exception,2024-02-24,True
+14135,Missed Training,2024-05-06,True
+6873,Missed Training,2022-12-07,False
+1287,Background Check Exception,2025-04-26,True
+2085,Missed Training,2024-01-16,True
+8612,Background Check Exception,2023-04-11,True
+23769,Background Check Exception,2025-03-16,True
+12186,Missed Training,2025-06-03,True
+1358,Policy Violation,2023-02-10,False
+17825,Missed Training,2025-07-10,False
+3093,Policy Violation,2023-12-09,True
+4446,Policy Violation,2023-03-01,True
+13816,Missed Training,2023-02-28,False
+13114,Background Check Exception,2023-03-20,True
+12895,Background Check Exception,2023-03-04,False
+19630,Policy Violation,2024-12-25,True
+14449,Background Check Exception,2023-07-02,True
+23274,Policy Violation,2023-12-06,True
+16580,Missed Training,2023-07-03,True
+21209,Missed Training,2025-09-12,True
+6182,Background Check Exception,2023-04-11,False
+22219,Background Check Exception,2024-04-07,True
+19560,Background Check Exception,2024-01-24,True
+18785,Missed Training,2022-12-05,True
+18618,Missed Training,2023-09-10,True
+14798,Background Check Exception,2025-04-02,True
+7158,Missed Training,2024-09-23,False
+8332,Missed Training,2024-09-03,True
+18045,Background Check Exception,2023-08-16,True
+1286,Background Check Exception,2022-12-03,True
+22329,Policy Violation,2022-10-01,True
+2538,Missed Training,2025-06-19,True
+3858,Background Check Exception,2023-10-10,True
+16771,Background Check Exception,2024-12-21,True
+13280,Background Check Exception,2023-12-31,False
+13629,Missed Training,2025-07-03,False
+10897,Background Check Exception,2024-04-24,True
+11902,Background Check Exception,2023-03-28,True
+12216,Missed Training,2025-06-04,True
+4917,Background Check Exception,2025-06-10,False
+12482,Policy Violation,2024-09-12,True
+10493,Background Check Exception,2023-08-27,False
+7454,Missed Training,2025-08-19,True
+2149,Missed Training,2023-02-13,True
+4087,Missed Training,2023-07-24,True
+11035,Background Check Exception,2025-01-16,True
+5817,Policy Violation,2025-07-20,True
+4430,Missed Training,2024-11-11,False
+3412,Policy Violation,2023-04-28,False
+16378,Policy Violation,2023-02-25,True
+20716,Background Check Exception,2025-02-24,True
+3049,Missed Training,2025-02-07,True
+19678,Missed Training,2025-01-08,True
+22715,Policy Violation,2024-11-14,False
+12705,Missed Training,2023-01-26,True
+15595,Background Check Exception,2023-01-05,False
+20534,Policy Violation,2024-11-05,True
+7677,Policy Violation,2025-09-03,True
+19320,Missed Training,2022-12-06,True
+16801,Background Check Exception,2024-10-26,True
+16302,Missed Training,2024-08-12,False
+12563,Background Check Exception,2025-08-02,False
+9671,Background Check Exception,2024-03-08,False
